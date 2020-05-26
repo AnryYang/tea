@@ -45,3 +45,14 @@ $ make clena all -j4
 ```sh
 $ ./hk -a teaplus -f ./data/ -g dblp -n 50 -s seeds.txt
 ```
+
+#### Citation
+```sh
+@inproceedings{yang2019efficient,
+  title={Efficient Estimation of Heat Kernel PageRank for Local Clustering},
+  author={Yang, Renchi and Xiao, Xiaokui and Wei, Zhewei and Bhowmick, Sourav S and Zhao, Jun and Li, Rong-Hua},
+  booktitle={Proceedings of the 2019 International Conference on Management of Data},
+  pages={1339--1356},
+  year={2019}
+}
+```
